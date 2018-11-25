@@ -15,6 +15,8 @@ A node.js script on top of Puppetear framework to crawl Twitter insights(Posts, 
   - $ npm i --save puppeteer
   
 4)edit the creds.js file to include your twitter account credentials
+
 5)Change index.js file "twitterId" field to the twitter Id of the account which you want to crawl
+
 6)go to command line and execute the command
-  $ node index.js
+  - $ node index.js
